@@ -43,7 +43,7 @@ while True:
         break
 
     else:
-        print("Opción no válida, intente nuevamente.")
+        print("Opción no válida, intente de nuevo.")
 
         def lista_de_productos():
 
